@@ -1,8 +1,4 @@
----
-title: "test"
-output: html_document
----
- We are going to use the forecast package to make predictions  as we have time-series of electricity consumption
+We are going to use the forecast package to make predictions  as we have time-series of electricity consumption
 ```{r}
 require("lubridate")
 require("data.table")
